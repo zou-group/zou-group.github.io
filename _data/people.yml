@@ -1,0 +1,25 @@
+- name: "James Zou"
+  url: "https://cap.stanford.edu/profiles/viewImage?profileId=84123&type=square"
+  title: "Principal Investigator"
+
+- name: "Abubakar Abid"
+  url: "http://i.imgur.com/a7et0tp.jpg"
+  title: "Graduate Student"
+
+- name: "Amirata Ghorbani"
+  url: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAvWAAAAJGQ5MjlkMDFlLWNkYWItNGZkYi05ZmViLTdhMzk2MDExNDRlNw.jpg"
+  title: "Graduate Student"
+
+- name: "Ruishan Liu"
+  url: "http://www.phy.pku.edu.cn/~yfxiao/images/ruishan.jpg"
+  title: "Graduate Student"
+
+- name: "Xinkun Nie"
+  url: "http://web.stanford.edu/~xinkun/portrait.jpg"
+  title: "Graduate Student"
+
+#I'm making it a multiple of 3 so the images look arranged regularly
+
+- name: ""
+  url: 
+  title:

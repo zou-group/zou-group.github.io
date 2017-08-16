@@ -1,12 +1,39 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+
+James Zou <br>
+Assistant Professor <br>
+Stanford University
+
+Department of Biomedical Data Science <br>
+Department of Computer Science <br>
+Department of Electrical Engineering
+
+Email: jamesyzou at gmail dot com <br>
+Office: Littlefield 340, Packard 253
 
 
- [1]: http://www.wufoo.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
