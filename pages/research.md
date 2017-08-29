@@ -10,6 +10,6 @@ For a full list of publications, please see the [Google Scholar profile](https:/
 
 * Exploring the bias in adaptively-collected data (Xinkun Nie)
 * Understanding the effect of memory in reinforcement learning (Ruishan Liu)
-* Understanding the geometry of deep learning (Amirata Ghorbani)
+* Understanding the geometry of deep learning and adversarial learning (Amirata Ghorbani)
 * Developing tools to perform contrastive learning for biomedical applications (Abubakar Abid)
 
