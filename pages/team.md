@@ -26,6 +26,8 @@ header:
     {{person.title}} <br>
     {%if person.website%}
     <a href="{{person.website}}">website</a>
+    {%else%}
+    website
     {%endif%}
     </div>
     {%endif%}
