@@ -19,12 +19,14 @@ header:
 
 
     {% for person in site.data.people %}
-
     <div class="medium-4 columns t30" style="text-align: center">
     {%if person.url%}
     <img class="photo" src="{{person.url}}"> <br>
     {{person.name}} <br>
-    {{person.title}}
+    {{person.title}} <br>
+    {%if person.website%}
+    <a href="{{person.website}}">website</a>
+    {%endif%}
     </div>
     {%endif%}
 
