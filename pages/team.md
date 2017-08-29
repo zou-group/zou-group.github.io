@@ -22,13 +22,13 @@ header:
     <div class="medium-4 columns t30" style="text-align: center">
     {%if person.url%}
     <img class="photo" src="{{person.url}}"> <br>
-    {{person.name}} <br>
-    {{person.title}} <br>
-    {%if person.website%}
-    <a href="{{person.website}}">website</a>
+    {%if person.website%} <a href="{{person.website}}">{{person.name}}</a> <br>     
     {%else%}
-    website
+    {{person.name}} <br>
     {%endif%}
+
+    {{person.title}} <br>
+    
     </div>
     {%endif%}
 
