@@ -16,6 +16,6 @@ Instead, please refer to: [https://sites.google.com/site/jamesyzou/](https://sit
 
 {% raw %}
 
-See thisd equation: $$d+1=3$$.
+This website supports Latex: $$d+1=3$$.
 
 {% endraw %}
