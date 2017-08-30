@@ -5,7 +5,7 @@ layout: page
 #
 title: "This Website is a Placeholder!"
 teaser: "Please disregard all announcements and information on this website, as it is still a work in progress."
-subheadline: "News"
+category: "News"
 #
 # Styling
 #
