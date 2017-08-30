@@ -18,5 +18,8 @@ header: no
 
 Instead, please refer to: [https://sites.google.com/site/jamesyzou/](https://sites.google.com/site/jamesyzou/)
 
+{% raw %}
+
 See this equation: $$d+1=3$$.
 
+{% endraw %}
