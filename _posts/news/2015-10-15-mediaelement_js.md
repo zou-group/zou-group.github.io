@@ -12,10 +12,11 @@ categories: news
 header: no
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 Instead, please refer to: [https://sites.google.com/site/jamesyzou/](https://sites.google.com/site/jamesyzou/)
 
 See this equation: $$d+1=3$$.
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
