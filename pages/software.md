@@ -6,4 +6,3 @@ header:
     image_fullwidth: "header_unsplash_1.jpg"
 ---
 
-Software coming soon!
