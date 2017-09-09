@@ -84,8 +84,8 @@ format: frontpage
 
     <div class="row">
         <div class="medium-6 columns">
-            {% for post in site.posts limit:1000 category='news'%}
-            {% if post.categories contains 'article' %}
+            {% for post in site.posts limit:1000%}
+            {% if post.categories contains 'news' %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <!-- {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %} -->
             <p>
