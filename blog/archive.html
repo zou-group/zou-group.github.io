@@ -13,8 +13,10 @@ permalink: "blog/archive/"
 		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
 
 		<dl class="accordion" data-accordion>
-			{% assign counter = 1 %}
-			{% for post in site.posts limit:1000 category='article'%}
+		            {% include list-posts entries='3' category='article' %}
+
+			<!-- {% assign counter = 1 %} -->
+<!-- 			{% for post in site.posts limit:1000 category='article'%}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} › {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">
@@ -24,6 +26,6 @@ permalink: "blog/archive/"
 			</dd>
 			{% assign counter=counter | plus:1 %}
 			{% endfor %}
-		</dl>
+ -->		</dl>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
