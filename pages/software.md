@@ -7,10 +7,10 @@ header:
 ---
 
 <div class="row">
-    <div class="medium-4 columns">
+    <div class="medium-6 columns">
     Test
     </div>
-    <div class="medium-8 columns">
-    Test 2
+    <div class="medium-6 columns">
+    <img src="https://github.com/abidlabs/contrastive/raw/master/images/gui_colors.png">
     </div>
 </div>
