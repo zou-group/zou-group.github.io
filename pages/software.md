@@ -14,9 +14,4 @@ header:
 
 </div>
 
-<!-- <div class="medium-8 columns">
-</div>
-<div class="medium-3 columns">
-<img src="">
-</div>
-</div> -->
+</div> 
