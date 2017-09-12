@@ -6,8 +6,6 @@ header:
     image_fullwidth: "header_unsplash_1.jpg"
 ---
 
-Here are select publications from our lab...
-
 <table align="center" cellpadding="0" cellspacing="0" width="800px">
 <tbody>
 <tr>
