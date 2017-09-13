@@ -71,11 +71,7 @@ DeepLofting: building 3D cardiovascular models with convolutional neural network
 </font></font></font><font face="Arial" size="3" style="font-family:Arial;font-size:medium"><i><font color="#0000ff">Nature Methods</font>&nbsp;</i><font color="#000033">in press (2017).</font></font><span style="font-family:Arial;font-size:medium">&nbsp;</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><br>
 
 
-<br>
 <h2><span style="color:#b22222"><u>2016 and earlier</u></span></h2>
-
-<center><font color="#073763" size="5"><a href="#ML" style="font-family:Arial;background-color:transparent;text-align:left"><b>machine learning</b></a><span style="font-family:Arial;background-color:transparent;text-align:left"> &nbsp;&nbsp; | &nbsp;&nbsp;</span><a href="#compbio" style="font-family:Arial;background-color:transparent;text-align:left"><b>computational biology</b></a><span style="font-family:Arial;background-color:transparent;text-align:left">&nbsp;&nbsp;</span></font></center>
-
 
 <p><font face="Arial" size="3"><br>
 </font><a name="compbio" style="background-color:transparent"><font face="Arial"><font color="#0b5394" size="5"><b>Computational biology</b></font></font></a></p>
