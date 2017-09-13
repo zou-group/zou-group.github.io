@@ -10,28 +10,84 @@ header:
 <tbody>
 <tr>
 
+
 <td>
+
+<h2><span style="color:#b22222"><u>2017</u></span></h2>
+
+
+
+<p><font face="Arial"><font color="#0f5ddb" size="3">NeuralFDR: learning decision threshold from hypothesis features.</font><br>
+</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">Martin Zhang, Fei Xia, David Tse, </font><font color="#990000">James Zou</font><font color="#000033">.&nbsp;</font></font></font><br>
+<i style="font-family:Arial;font-size:medium"><font color="#0000ff">Neural Information Processing Systems</font></i><font color="#000033" style="font-family:Arial;font-size:medium">&nbsp;(NIPS 2017).</font></p>
+
+
+
+<p><font face="Arial"><font color="#0f5ddb" size="3">The effects of memory replay in reinforcement learning.</font><br>
+</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#990000">Ruishan Liu</font><font color="#000033"> and </font><font color="#990000">James Zou</font><font color="#000033">.&nbsp;</font><br>
+</font></font><font color="#000000" style="font-family:Arial;font-size:medium;font-style:italic">Submitted</font><font color="#134f5c" style="font-family:Arial;font-size:medium">&nbsp;</font><font color="#000000" style="font-family:Arial;font-size:medium">2017</font><font color="#000033" style="font-family:Arial;font-size:medium">.</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;</font></font></font></p>
+<p><font face="Arial"><font color="#0f5ddb" size="3">Why adaptively collected data has negative bias and how to correct for it.&nbsp;</font></font><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)">[<a href="https://arxiv.org/pdf/1708.01977.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
+</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#990000">Xinkun Nie</font><font color="#000033">, Xiaoying Tian-Harris, Jonathan Taylor, </font><font color="#990000">James Zou</font><font color="#000033">.&nbsp;</font><br>
+</font></font><font color="#000000" style="font-family:Arial;font-size:medium;font-style:italic">Submitted</font><font color="#134f5c" style="font-family:Arial;font-size:medium">&nbsp;</font><font color="#000000" style="font-family:Arial;font-size:medium">2017</font><font color="#000033" style="font-family:Arial;font-size:medium">.</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;ICML Workshop on Picky Learners&nbsp;</font></font></font><b style="background-color:transparent;color:rgb(204,0,0);font-family:Arial;font-size:medium">Best Paper Award.</b></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Linear regression with shuffled labels.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="https://arxiv.org/pdf/1705.01342.pdf">arXiv</a>]</font>&nbsp;<br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#990000">Abubakar Abid</font><font color="#000033">, Ada Poon,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">.&nbsp;</font><br>
+<font color="#000000" style="font-style:italic">Submitted</font><font color="#134f5c">&nbsp;</font><font color="#000000">2017</font><font color="#000033">.&nbsp;</font></font></font></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Estimating the unseen from multiple populations.&nbsp;</span><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)">[<a href="https://arxiv.org/pdf/1707.03854.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
+</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">Aditi Rangunathan, Greg Valiant,</font></font></font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">.&nbsp;</font></font></font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><br>
+</font></font><i style="font-family:Arial;font-size:medium"><font color="#0000ff">International Conference on Machine Learning</font></i><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#134f5c">&nbsp;</font><font color="#000000">(ICML 2017)</font><font color="#000033">.&nbsp;</font></font></font></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Learning latent space models with angular constraints.&nbsp;</span><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)">[<a href="http://proceedings.mlr.press/v70/xie17a/xie17a.pdf" target="_blank">arXiv</a><span></span><a href="/"></a><span></span>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
+</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">Pengtao Xie, Yuntian Deng, Yi Zhou, Abhimanu Kumar, Yaoliang Yu,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eric Xing.&nbsp;</font><br>
+</font></font><i style="font-family:Arial;font-size:medium"><font color="#0000ff">International Conference on Machine Learning</font></i><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#134f5c">&nbsp;</font><font color="#000000">(ICML 2017)</font><font color="#000033">.&nbsp;</font></font></font></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">How much does your data exploration overfit? Controlling bias via information usage.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://arxiv.org/abs/1511.05219">arXiv</a>]</font>&nbsp;<br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Daniel Russo,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;[</font><i style="color:rgb(0,0,51)">alphabetical</i><font color="#000033">].&nbsp;</font><br>
+<font color="#000000" style="font-style:italic">Submitted</font><font color="#134f5c">&nbsp;</font><font color="#000000">2017</font>&nbsp;<font style="color:rgb(0,0,51)">(subsumes the AISTATS'16 paper with new results and improved presentation)</font><font color="#000033">.&nbsp;</font></font></font></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Quantifying the accuracy of approximate diffusions and Markov chains.</span><font face="Arial"><a name="compbio">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)"><a href="http://arxiv.org/pdf/1605.06420v1.pdf">arXiv</a>]</font>
+<br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">
+Jonathan Huggins,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">. </font><br>
+<i><font color="#0000ff">AISTATS</font><font color="#000033"> (</font></i><font color="#000033">2017).</font></font>
+<br>
+<br>
+</font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Signal to noise in matching markets.&nbsp;</span><a name="compbio" style="font-family:Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)"><a href="https://arxiv.org/pdf/1612.09006v1.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">
+Matt Weinberg, </font><font color="#990000"> James Zou</font><font color="#000033">. </font><br>
+<i style="color:rgb(0,0,51)">Submitted 2017</i><font color="#000033">.</font></font>&nbsp;</font></p>
+<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Beyond bilingual: multi-sense word embedding using multi-lingual context.</span><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">&nbsp;</span><a name="compbio" style="font-family:Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)"><a href="https://arxiv.org/pdf/1706.08160.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
+<font color="#000033" face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">Shyam Upadhyay</font></font><span style="color:rgb(0,0,51);font-size:medium;font-family:Arial;background-color:transparent">, Kai-Wei Chang</span><font color="#000000" style="font-size:medium;font-family:Arial;background-color:transparent">,</font><span style="color:rgb(0,0,51);font-size:medium;font-family:Arial;background-color:transparent">&nbsp;Matt Taddy, Adam Kalai,&nbsp;</span><font color="#990000" style="background-color:transparent;font-family:Arial;font-size:medium">James Zou</font><span style="background-color:transparent;color:rgb(0,0,51);font-family:Arial;font-size:medium">.</span><span style="background-color:transparent;color:rgb(0,0,51);font-size:medium;font-family:Arial">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><font face="Arial" size="3" style="background-color:transparent;font-family:Arial;font-size:medium"><i><font color="#0000ff">Representation Learning for NLP</font><font color="#000033"> (</font></i><font color="#000033">Rep4NLP 2017</font><i style="color:rgb(0,0,51)">)</i><font color="#000033">.</font></font><span style="background-color:transparent;font-family:Arial">&nbsp;<font color="#cc0000" size="3"><b>Best Paper Award.</b></font></span></p>
+<span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Deep learning the regulatory potential of DNA sequences from massively parallel reporter assays.</span><font face="Arial"><br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Joe Paggi, Kevin Tian, Anshul Kundajie*,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">* </span><span style="font-family:Arial;font-size:medium"><font color="#000000">[equal contribution]</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">.&nbsp;</font><br>
+<i><font color="#000000">In submission</font></i><font color="#000033"> (2017).</font></font>&nbsp;</font>
+
+<br>
+<span style="color:rgb(15,93,219);font-family:Arial;font-size:medium"><br>
+DeepLofting: building 3D cardiovascular models with convolutional neural networks.</span><font face="Arial"><br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Gabriel Maher, Jameson Merkow,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Zhuowen Tu, David Kriegman, Alison Marsden.</font><br>
+<i><font color="#000000">In submission</font></i><font color="#000033"> (2017).</font></font>&nbsp;</font>
+
+<br>
+<br>
+<span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Correcting for cell-type heterogeneity in DNA methylation: avoiding statistical flaws.</span><font face="Arial"><br>
+<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Elior Rahmani, Noah Zaitlen, Yael Baran, Celeste Eng, Donglei Hu, Joshua Galanter, Sam Oh, Esteban Burchard, Eleazar Eskin,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eran Halperin.&nbsp;<br>
+</font></font></font><font face="Arial" size="3" style="font-family:Arial;font-size:medium"><i><font color="#0000ff">Nature Methods</font>&nbsp;</i><font color="#000033">in press (2017).</font></font><span style="font-family:Arial;font-size:medium">&nbsp;</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><br>
+
+
+<br>
+<h2><span style="color:#b22222"><u>2016 and earlier</u></span></h2>
+
 <center><font color="#073763" size="5"><a href="#ML" style="font-family:Arial;background-color:transparent;text-align:left"><b>machine learning</b></a><span style="font-family:Arial;background-color:transparent;text-align:left"> &nbsp;&nbsp; | &nbsp;&nbsp;</span><a href="#compbio" style="font-family:Arial;background-color:transparent;text-align:left"><b>computational biology</b></a><span style="font-family:Arial;background-color:transparent;text-align:left">&nbsp;&nbsp;</span></font></center>
+
+
 <p><font face="Arial" size="3"><br>
 </font><a name="compbio" style="background-color:transparent"><font face="Arial"><font color="#0b5394" size="5"><b>Computational biology</b></font></font></a></p>
 <p><font face="Arial">
-<br>
-</font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Deep learning the regulatory potential of DNA sequences from massively parallel reporter assays.</span><font face="Arial"><br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Joe Paggi, Kevin Tian, Anshul Kundajie*,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou* </span><span style="font-family:Arial;font-size:medium"><font color="#000000">[equal contribution]</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">.&nbsp;</font><br>
-<i><font color="#000000">In submission</font></i><font color="#000033"> (2017).</font></font>&nbsp;</font></p>
-<span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">DeepLofting: building 3D cardiovascular models with convolutional neural networks.</span><font face="Arial"><br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Gabriel Maher, Jameson Merkow,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Zhuowen Tu, David Kriegman, Alison Marsden.</font><br>
-<i><font color="#000000">In submission</font></i><font color="#000033"> (2017).</font></font>&nbsp;</font>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Quantifying the unobserved protein-coding variants in human populations provides a roadmap for large-scale sequencing projects</span><font face="Arial"><font style="font-size:medium"><font face="Arial" size="3"><font color="#0000ff">.</font></font><font face="Arial" size="3" style="color:rgb(0,0,255)"> </font></font> 
+
+</font></p>
+<p><font face="Arial"><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Quantifying the unobserved protein-coding variants in human populations provides a roadmap for large-scale sequencing projects</span><font face="Arial"><font style="font-size:medium"><font face="Arial" size="3"><font color="#0000ff">.</font></font><font face="Arial" size="3" style="color:rgb(0,0,255)"> </font></font> 
 <font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://www.nature.com/articles/ncomms13293">PDF</a></font></font><font face="Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">]</font>
 <br>
 </font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Greg Valiant, Paul Valiant, Konrad Karczewski, Siu On Chan, Kaitlin Samocha, Monkol Lek, Exome Aggregation Consortium, Shamil Sunyaev, Mark Daly, Daniel MacArthur </font><br>
 <i><font color="#0000ff">Nature Communications</font></i><font color="#000033">&nbsp;(2016).</font></font>
 <br>
-<br>
-</font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Correcting for cell-type heterogeneity in DNA methylation: avoiding statistical flaws.</span><font face="Arial"><br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Elior Rahmani, Noah Zaitlen, Yael Baran, Celeste Eng, Donglei Hu, Joshua Galanter, Sam Oh, Esteban Burchard, Eleazar Eskin,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eran Halperin.&nbsp;</font><br>
-<i><font color="#0000ff">Nature Methods</font>&nbsp;</i><font color="#000033">in press (2017).</font></font>&nbsp;</font><font face="Arial"><br>
 <br>
 </font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Analysis of protein-coding genetic variation in 60,706 humans.</span><font face="Arial"><font color="#0f5ddb" face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">&nbsp;</font><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://biorxiv.org/content/early/2015/10/30/030338">arXiv</a>]</font>
 <br>
@@ -43,7 +99,8 @@ Exome Aggregation Consortium. </font><br>
 </font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Sparse PCA corrects for cell type heterogeneity in epigenome-wide association studies.</span><font face="Arial"><br>
 <font face="Arial" size="3" style="font-size:medium"><font color="#000033">
 Elior Rahmani, Noah Zaitlen, Yael Baran, Celeste Eng, Donglei Hu, Joshua Galanter, Sam Oh, Esteban Burchard, Eleazar Eskin,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eran Halperin. </font><br>
-<i><font color="#0000ff">Nature Methods</font> </i><font color="#000033"> in press (2016).</font></font>&nbsp;</font></p>
+<i><font color="#0000ff">Nature Methods</font> </i><font color="#000033"> in press (2016).</font></font>&nbsp;</font></font></p>
+<font face="Arial">
 <p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">A genetic and socio-economic study of mate choice in Latinos reveals novel assortment patterns.</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">&nbsp;</font><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="https://www.dropbox.com/s/vb74abkjnbz4wdb/PNAS-2015-Zou.pdf?dl=0">PDF</a>]</font>&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="https://www.ucsf.edu/news/2015/10/136551/genomic-ancestry-linked-mate-selection-study-shows">Press</a>]</font>&nbsp;<br>
 </font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;[</font><i style="color:rgb(0,0,51)">corresponding author</i><font color="#000033">], Danny Park, Esteban Burchard, Dara Torgerson, Maria Pino-Yanes, Yun Song, Sriram Sankararaman, Eran Halperin, Noah Zaitlen&nbsp;</font><br>
 <i><font color="#0000ff">Proceedings of the National Academy of Sciences</font><font color="#45818e">&nbsp;</font></i><font color="#000033">112(44):13621-6 (2015).</font></font>&nbsp;</font><font face="Arial"><br>
@@ -141,43 +198,9 @@ Seiji Maruo, Bo Zhao, Eric Johannsen, Elliott Kieff,&nbsp;</font></font></font><
 <br>
 <a name="ML"><font color="#0b5394" size="5"><b>Machine learning and AI<br>
 </b></font>
-<br>
+
 </a></font></p>
-<p><font face="Arial"><font color="#0f5ddb" size="3">NeuralFDR: learning decision threshold from hypothesis features.</font><br>
-</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">With Fei Xia, Martin Zhang and David Tse.&nbsp;</font><br>
-</font></font><font color="#000000" style="font-family:Arial;font-size:medium;font-style:italic">Submitted</font><font color="#134f5c" style="font-family:Arial;font-size:medium">&nbsp;</font><font color="#000000" style="font-family:Arial;font-size:medium">2017</font><font color="#000033" style="font-family:Arial;font-size:medium">.</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;</font></font></font></p>
-<p><font face="Arial"><font color="#0f5ddb" size="3">The effects of memory replay in reinforcement learning.</font><br>
-</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">With Ruishan Liu.&nbsp;</font><br>
-</font></font><font color="#000000" style="font-family:Arial;font-size:medium;font-style:italic">Submitted</font><font color="#134f5c" style="font-family:Arial;font-size:medium">&nbsp;</font><font color="#000000" style="font-family:Arial;font-size:medium">2017</font><font color="#000033" style="font-family:Arial;font-size:medium">.</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;</font></font></font></p>
-<p><font face="Arial"><font color="#0f5ddb" size="3">Why adaptively collected data has negative bias and how to correct for it.</font><br>
-</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">With Xinkun Nie, Xiaoying Tian-Harris and Jonathan Taylor.&nbsp;</font><br>
-</font></font><font color="#000000" style="font-family:Arial;font-size:medium;font-style:italic">Submitted</font><font color="#134f5c" style="font-family:Arial;font-size:medium">&nbsp;</font><font color="#000000" style="font-family:Arial;font-size:medium">2017</font><font color="#000033" style="font-family:Arial;font-size:medium">.</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;</font></font></font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Linear regression with shuffled labels.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="https://arxiv.org/pdf/1705.01342.pdf">arXiv</a>]</font>&nbsp;<br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Abubakar Abid, Ada Poon,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">.&nbsp;</font><br>
-<font color="#000000" style="font-style:italic">Submitted</font><font color="#134f5c">&nbsp;</font><font color="#000000">2017</font><font color="#000033">.&nbsp;</font></font></font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Estimating the unseen from multiple populations.</span><font face="Arial"><br>
-</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">With Aditi Rangunathan and Greg Valiant.&nbsp;</font><br>
-</font></font><i style="font-family:Arial;font-size:medium"><font color="#0000ff">International Conference on Machine Learning</font></i><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#134f5c">&nbsp;</font><font color="#000000">(ICML 2017)</font><font color="#000033">.&nbsp;</font></font></font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Cosine similarity constrained latent space models.</span><font face="Arial"><br>
-</font><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">Pengtao Xie, Yuntian Deng, Yi Zhou, Abhimanu Kumar, Yaoliang Yu,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eric Xing.&nbsp;</font><br>
-</font></font><i style="font-family:Arial;font-size:medium"><font color="#0000ff">International Conference on Machine Learning</font></i><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#134f5c">&nbsp;</font><font color="#000000">(ICML 2017)</font><font color="#000033">.&nbsp;</font></font></font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">How much does your data exploration overfit? Controlling bias via information usage.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://arxiv.org/abs/1511.05219">arXiv</a>]</font>&nbsp;<br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">Daniel Russo,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">&nbsp;[</font><i style="color:rgb(0,0,51)">alphabetical</i><font color="#000033">].&nbsp;</font><br>
-<font color="#000000" style="font-style:italic">Submitted</font><font color="#134f5c">&nbsp;</font><font color="#000000">2017</font>&nbsp;<font style="color:rgb(0,0,51)">(subsumes the AISTATS'16 paper with new results and improved presentation)</font><font color="#000033">.&nbsp;</font></font></font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Quantifying the accuracy of approximate diffusions and Markov chains.</span><font face="Arial"><a name="compbio">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)"><a href="http://arxiv.org/pdf/1605.06420v1.pdf">arXiv</a>]</font>
-<br>
-<font face="Arial" size="3" style="font-size:medium"><font color="#000033">
-Jonathan Huggins,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">. </font><br>
-<i><font color="#0000ff">AISTATS</font><font color="#000033"> (</font></i><font color="#000033">2017).</font></font>
-<br>
-<br>
-</font><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Signal to noise in matching markets.&nbsp;</span><a name="compbio" style="font-family:Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)"><a href="https://arxiv.org/pdf/1612.09006v1.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
-<font color="#000033" face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">
-Matt Weinberg, <font color="#9b3112"> James Zou</font>. <br>
-<i>Submitted 2016</i>.</font>&nbsp;</font></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Beyond bilingual: multi-sense word embedding using multi-lingual context.</span><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">&nbsp;</span><a name="compbio" style="font-family:Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></a><font face="Arial" size="3" style="font-family:Arial;font-size:medium;color:rgb(0,0,51)"><a href="https://arxiv.org/pdf/1706.08160.pdf" target="_blank">arXiv</a>]</font><span style="font-family:Arial">&nbsp;</span><font face="Arial"><br>
-<font color="#000033" face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">Shyam Upadhyay</font></font><span style="color:rgb(0,0,51);font-size:medium;font-family:Arial;background-color:transparent">, Kai-Wei Chang</span><font color="#000000" style="font-size:medium;font-family:Arial;background-color:transparent">,</font><span style="color:rgb(0,0,51);font-size:medium;font-family:Arial;background-color:transparent">&nbsp;Matt Taddy, Adam Kalai,&nbsp;</span><font color="#9b3112" style="background-color:transparent;font-family:Arial;font-size:medium">James Zou</font><span style="background-color:transparent;color:rgb(0,0,51);font-family:Arial;font-size:medium">.</span><span style="background-color:transparent;color:rgb(0,0,51);font-size:medium;font-family:Arial">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><font face="Arial" size="3" style="background-color:transparent;font-family:Arial;font-size:medium"><i><font color="#0000ff">Representation Learning for NLP</font><font color="#000033"> (</font></i><font color="#000033">Rep4NLP 2017</font><i style="color:rgb(0,0,51)">)</i><font color="#000033">.</font></font><span style="background-color:transparent;font-family:Arial">&nbsp;<font color="#cc0000" size="3"><b>Best Paper Award.</b></font></span></p>
-<p><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://arxiv.org/pdf/1607.06520.pdf">arXiv</a>]</font>
+<p><font face="Arial"><a name="ML"><span style="color:rgb(15,93,219);font-family:Arial;font-size:medium">Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.</span><font face="Arial">&nbsp;<font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[</font></font></a><font face="Arial"><font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)"><a href="http://arxiv.org/pdf/1607.06520.pdf">arXiv</a>]</font>
 <font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/">TechReview</a>]</font>
 <font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://motherboard.vice.com/read/machine-learning-sexist-computers-gender-bias">Vice</a>]</font>
 <font face="Arial" size="3" style="font-size:medium;color:rgb(0,0,51)">[<a href="http://www.npr.org/sections/alltechconsidered/2016/08/12/489507182/hes-brilliant-shes-lovely-teaching-computers-to-be-less-sexist">NPR</a>]</font>
@@ -290,12 +313,14 @@ Sujit Gujar,&nbsp;</font></font></font><span style="color:rgb(155,49,18);font-fa
 </font><span style="color:rgb(155,49,18);font-family:Arial;font-size:medium">James Zou</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">,  David Parkes. </font><br>
 <i><font color="#134f5c">U.S. Provisional Application </font><font color="#000033">No.: 61/837,843 </font></i><font color="#000033">.</font></font>
 <br>
-</font></p>
+</font></font></p>
+<font face="Arial">
 <font face="Arial" size="3"><font color="#ffffff">James Zou Stanford<br>
 </font>
 <br>
 </font>
-</td>
+</font></font></font></font></td>
 </tr>
 </tbody>
 </table>
+
