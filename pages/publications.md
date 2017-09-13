@@ -71,8 +71,7 @@ DeepLofting: building 3D cardiovascular models with convolutional neural network
 <font face="Arial" size="3" style="font-size:medium"><font color="#000033">Elior Rahmani, Noah Zaitlen, Yael Baran, Celeste Eng, Donglei Hu, Joshua Galanter, Sam Oh, Esteban Burchard, Eleazar Eskin,&nbsp;</font></font></font><span style="font-family:Arial;font-size:medium"><font color="#990000">James Zou</font></span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><font color="#000033">, Eran Halperin.&nbsp;<br>
 </font></font></font><font face="Arial" size="3" style="font-family:Arial;font-size:medium"><i><font color="#0000ff">Nature Methods</font>&nbsp;</i><font color="#000033">in press (2017).</font></font><span style="font-family:Arial;font-size:medium">&nbsp;</span><font face="Arial"><font face="Arial" size="3" style="font-size:medium"><br>
 
-<h2><span style="color:#b22222"><u>2017</u></span></h2>
-<h2><span style="color:#b22222"><u>2016 and earlier</u></span></h2>
+<h><strong><u>2016 and earlier</u></strong></h>
 
 <p><font face="Arial" size="3"><br>
 </font><a name="compbio" style="background-color:transparent"><font face="Arial"><font color="#0b5394" size="5"><b>Computational biology</b></font></font></a></p>
