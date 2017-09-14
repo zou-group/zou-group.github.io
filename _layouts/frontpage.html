@@ -84,9 +84,12 @@ format: frontpage
 
     <div class="row">
         <div class="medium-6 columns">
+        	<h3>About Our Lab</h3>
+        	<p>{{ site.description }}</p>
+
             {% for post in site.posts limit:1000%}
             {% if post.categories contains 'news' %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h4><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
             <!-- {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %} -->
             <p>
                 {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
