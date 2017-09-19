@@ -14,7 +14,7 @@ title: 'Zou Group'
 slogan: 'Zou Group @Stanford'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'We are a group that works on a wide range of problems in machine learning (from proving mathematical properties to designing new models and algorithms) and are especially interested in applications in human genomics.'
+description: 'We are a group that works on a wide range of problems in machine learning (from proving mathematical properties to designing new models and algorithms) and are especially interested in applications in genomics, health and biotech.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: ''
