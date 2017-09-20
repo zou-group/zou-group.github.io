@@ -25,5 +25,6 @@
 - name: "Amirali Aghazadeh"
   url: "http://amirali.rice.edu/files/2016/04/IMG_6000-20uybs4.jpg"
   title: "Postdoctoral Fellow"
-
+  website: "http://amirali.rice.edu/"
+  
 #I'm making it a multiple of 3 so the images look arranged regularly
