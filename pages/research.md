@@ -13,6 +13,7 @@ For a full list of publications, please see the [Google Scholar profile](https:/
 * Understanding the geometry of deep learning and adversarial learning (Amirata).
 * Developing tools to perform contrastive learning for biomedical applications (Abubakar).
 * Algorithms and models for spatial transcriptomics (Ruishan).
-* UK Biobank: disease risk prediction using genotype, behavioral and environmental data. 
+* UK Biobank: disease risk prediction using large-scale genotype, behavioral and environmental data. 
+* Robustness of interpretations of black-box models (Amirata and Abubakar). 
 
 
