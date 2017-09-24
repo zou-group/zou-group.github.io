@@ -9,13 +9,14 @@
   website: "http://a12d.com/"
 
 - name: "Amirata Ghorbani"
-  url: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAvWAAAAJGQ5MjlkMDFlLWNkYWItNGZkYi05ZmViLTdhMzk2MDExNDRlNw.jpg"
+  url: "http://web.stanford.edu/~amiratag/photo.jpg"
   title: "Graduate Student"
+  website: "http://web.stanford.edu/~amiratag"
 
 - name: "Ruishan Liu"
   url: "http://web.stanford.edu/~ruishan/Photo.jpg"
   title: "Graduate Student"
-  website: "http://site.ruishanliu.com/"
+  website: "http://web.stanford.edu/~ruishan/index.html"
 
 - name: "Xinkun Nie"
   url: "http://web.stanford.edu/~xinkun/portrait.jpg"
