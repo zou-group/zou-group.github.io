@@ -8,14 +8,14 @@ categories: article
 published: true
 ---
 
+By: Abubakar Abid <br>
+
 <div style="text-align: center; width:80%; margin-left:10%; margin-bottom:15px;">
 <center>
 <img src="/images/headphones.jpg" style="width:90%"><br>
 <em>Removing noise from data is an important first step in machine learning. What can data scientists learn from noise-canceling headphones?</em>
 </center>
 </div>
-
-By: Abubakar Abid <br>
 
 AS data scientists and researchers in machine learning, we usually don't think about how our data is collected. We focus on analysis, not measurement. While that abstraction is useful, it can be dangerous if we're dealing with noisy data. A dirty dataset can be a bottleneck that reduces the quality of the entire analysis pipeline.
 
