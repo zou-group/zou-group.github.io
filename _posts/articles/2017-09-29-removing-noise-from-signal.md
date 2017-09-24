@@ -17,7 +17,7 @@ Removing noise from data is an important first step in machine learning. What ca
 
 AS data scientists and researchers in machine learning, we usually don't think about how our data is collected. We focus on analysis, not measurement. While that abstraction is useful, it can be dangerous if we're dealing with noisy data. A dirty dataset can be a bottleneck that reduces the quality of the entire analysis pipeline.
 
-In this post, I'm not going to talk about data collection. But I do want to talk about **what to do if you are given a dirty dataset.** Are there any steps you can easily take to improve the quality of your data? I will mention 3 high-level ideas to *denoise* data. As we'll see, each of these methods will have an analogue in signal processing, as electrical engineers have been thinking about this problem for a long time!
+In this post, I'm not going to talk about data collection. But I do want to talk about **what to do if you are given a dirty dataset.** Are there any steps you can easily take to improve the quality of your data? I will mention 3 high-level ideas to *denoise* data. As we'll see, each of these methods will have an analogue in signal processing, as electrical engineers have been thinking about similar problems for a long time!
 
 ## 1. Get More Data
 
@@ -25,9 +25,9 @@ The first and simplest approach that you could do is to ask the person who gave 
 
 Well, to answer that question, let's go back to 1948 when **Claude Shannon discovered a quantitative relationship between communication capacity and the signal-to-noise ratio** of a communication channel -- an equation that started the entire field of information theory. We don't need the exact relationship here, but the proportionality is:
 
-$$ C \propto \log_2{1 + SNR} $$ 
+$$ C \propto \log_2{(1 + SNR)} $$ 
 
-To put it simply, this equation is saying that the better your signal-to-noise ratio ($SNR$), the more information (\\(C\\)) you can communicate over the channel per unit time (assuming the bandwidth of your channel is held constant). Why are these two things (\\(C\\) and \\(SNR\\)) related? Because, if you have a noisy channel, you can compensate for it by adding **redudancy**: repeatedly send your signal and have the person on the receiving end "vote" to see what your original signal was. 
+To put it simply, this equation is saying that the better your signal-to-noise ratio (\\(SNR\\)), the more information (\\(C\\)) you can communicate over the channel per unit time (assuming the bandwidth of your channel is held constant). Why are these two things (\\(C\\) and \\(SNR\\)) related? Because, if you have a noisy channel, you can compensate for it by adding **redudancy**: repeatedly send your signal and have the person on the receiving end "vote" to see what your original signal was. 
 
 In other words, suppose you wanted to communicate the digit \\(0\\) to your friend, but when you text him, there's a small chance the \\(0\\) gets "lost" and your friend sees a random digit instead: a \\(0\\) or \\(1\\). So you just text him 5 times:
 
