@@ -9,7 +9,7 @@ published: true
 ---
 
 <center>
-<img src="https://cdn.pixabay.com/photo/2014/07/31/23/38/headphones-407190_960_720.jpg" style="width:50%"></img>
+<img src="/images/headphones.jpg" style="width:50%"></img>
 <small>Removing noise from data is an important first step in machine learning. What can data scientists learn from noise-canceling headphones?</small>
 </center>
 
