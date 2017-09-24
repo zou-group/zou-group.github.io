@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "3 Ways to Remove Noise from Data/Signal"
-teaser: "De-noising signal and data is one of the most important problems in data science and electrical engineering. Here, I provide a high-level breakdown of 3 ways to think about this problem."
+teaser: "Denoising signal and data is one of the most important problems in data science and electrical engineering. Here, I provide a high-level breakdown of 3 ways to think about this problem."
 header: no
 comments: true
 categories: article
@@ -23,7 +23,7 @@ In this post, I'm not going to talk about data collection. But I do want to talk
 
 ## 1. Get More Data
 
-The first and simplest approach that you could do is to ask the person who gave you dirty data to give you *more of it*. Why does having more data help? Won't it also increase the amount of noise we have to deal with? 
+The first and simplest approach that you can do is to ask the person who gave you dirty data to give you *more of it*. Why does having more data help? Won't it also increase the amount of noise we have to deal with? 
 
 Well, to answer that question, let's go back to 1948 when **Claude Shannon discovered a quantitative relationship between communication capacity and the signal-to-noise ratio** of a communication channel -- an equation that started the entire field of information theory. We don't need the exact relationship here, but the proportionality is:
 
@@ -35,15 +35,15 @@ In other words, suppose you wanted to communicate the digit \\(0\\) to your frie
 
 $${0, 0, 0, 1, 0}$$
 
-That way, he can know to simply take the majority vote, which produces: \\(0\\). Now, there are more complicated schemes as we'll see next, but for our purposes, the interesting thing to note is that our basic voting scheme works even if the noise is _more_than the signal. In other words, even if the probability that a digit is lost is more than 50%, this still works, because whereas noise is random, signal is consistent. So, overall, there will still be more \\(0\\)'s  than \\(1\\)'s.
+That way, he can know to simply take the majority vote, which produces: \\(0\\). Now, there are more complicated schemes as we'll see next, but for our purposes, the interesting thing to note is that our basic voting scheme works even if the noise is _more_ than the signal. In other words, even if the probability that a digit is lost is more than 50%, this still works, because whereas noise is random, signal is consistent. So, overall, there will still be more \\(0\\)'s  than \\(1\\)'s.
 
-This brings us back to machine learning: why does having more dirty data help? Because the noise in the data is random (this isn't always the case; we'll relax this assumption in Point #3), having more data will cause the effects of noise to start canceling each other out, while the effect of the signal will start adding up.
+This brings us back to machine learning: why does having more dirty data help? Because if the noise in the data is random (this isn't always the case; we'll relax this assumption in Point #3), having more data will cause the effects of noise to start canceling each other out, while the effect of the signal will start adding up.
 
 ## 2. Project Your Data Onto a Basis Where Your Signal is Structured
 
 Can you do better? Well it turns out that often times you can, especially if your signal has structure to it. This structure is often times not visible in the original basis that you received your data. But a simple transformation can reveal the structure.
 
-Perhaps the best-known example of this is the application of the **Fourier Transform** to audio signal. If you take a recording of someone speaking, it's going to have all sorts of noise in it because of background sounds. This may not be clear from the raw signal. But if break your signal [down by frequencies)](https://en.wikipedia.org/wiki/Fourier_transform), you'll see that most of the audio lies in a few frequencies. The noise, because it's random, will still be spread out across all of the frequencies. This means that we can *filter* out our noise by retaining only the frequencies with lots of signal and removing all other frequencies.
+Perhaps the best-known example of this is the **application of the Fourier Transform to audio signal**. If you take a recording of someone speaking, it's going to have all sorts of noise in it because of background sounds. This may not be clear from the raw signal. But if break your signal [down by frequencies)](https://en.wikipedia.org/wiki/Fourier_transform), you'll see that most of the audio signal lies in a few frequencies. The noise, because it's random, will still be spread out across all of the frequencies. This means that we can *filter* out our noise by retaining only the frequencies with lots of signal and removing all other frequencies.
 
 What's the connection with cleaning up data? For this part, it helps to have a  specific dataset in mind: so consider a dataset that consists of \\(m\\) users who have read \\(n\\) books and assigned each one a real-number rating (similar to the [Netflix Challenge](https://en.wikipedia.org/wiki/Netflix_Prize)). This dataset can be succinctly described by a matrix \\(A \in R^{m \times n}\\). Now, suppose this data matrix is heavily corrupted (i.e. by Gaussian noise or by missing entries).
 
@@ -61,7 +61,7 @@ So far, we have assumed that the noise is random, or at the very least, that it 
 
 If you were to take the Fourier Transform of the audio signal and only look at the frequencies with the largest values, then you might instead pick out the frequencies corresponding to the jet engine instead of the frequencies corresponding to human speech because the former can in fact be louder than the latter. In this case, it's probably more appropriate to think of the noise as a _confounding signal_ but nevertheless, fundamentally, it represents unwanted signal.
 
-To combat this problem (and make things like noise-canceling headphones possible), electrical engineers have developed _adaptive noise cancellation_, a strategy that uses two signals: the _primary_ signal, which is just the corrupted signal, and a _background_ signal that only contains the noise. The reference is essentially subtracted from the primary to estimate the original signal.
+To combat this problem (and make things like noise-canceling headphones possible), electrical engineers have developed _adaptive noise cancellation_, a strategy that uses two signals: the _primary_ signal, which is just the corrupted signal, and a _background_ signal that only contains the noise. The background is essentially subtracted from the primary signal to estimate the uncorrupted signal.
 
 The same kind of approach can be used to clean dirty datasets that contain significant background trends that are not of interest to the researcher. Imagine, for example, that we have gene-expression measurements from cancer patients of different ethnicities and sexes. If we directly apply SVD (or PCA) to this data, the top components or bases will correspond to the demographic variations of the individuals instead of the subtypes of cancer because the genetic variations due to the former are likely to be larger than that of the latter. But if we have a background dataset consisting of healthy patients that also contain the variation associated with demographic differences, but not the variation corresponding to subtypes of cancer, we can search for top components in our primary dataset that our absent from the background.
 
