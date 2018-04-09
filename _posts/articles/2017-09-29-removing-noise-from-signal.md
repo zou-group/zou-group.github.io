@@ -1,5 +1,5 @@
 ---
-layout: notebook
+layout: page
 title: "3 Ways to Remove Noise from Data/Signal"
 teaser: "Denoising signal and data is one of the most important problems in data science and electrical engineering. Here, I provide a high-level breakdown of 3 ways to think about this problem."
 header: no
