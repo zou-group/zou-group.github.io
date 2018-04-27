@@ -3,7 +3,7 @@ layout: page
 title: "Our Team"
 permalink: "/team/"
 header:
-    image_fullwidth: "header_unsplash_1.jpg"
+    image_fullwidth: "hike.jpg"
 ---
 
 <style>
