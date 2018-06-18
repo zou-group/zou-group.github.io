@@ -30,11 +30,16 @@
 
 #I'm making it a multiple of 3 so the images look arranged regularly
 
-- name: ""
-  title: ""
+- name: "Jaime Gimenez"
+  url: "https://ibb.co/eFg7Xy"
+  title: "Graduate Student"
 
-- name: ""
-  title: ""
+- name: "Bryan He"
+  url: "http://ai.stanford.edu/~bryanhe/photo.jpg"
+  title: "Graduate Student"
 
+- name: "Michael Wu"
+  url: "https://ibb.co/hMhmQJ"
+  title: "Graduate Student"
 
 
