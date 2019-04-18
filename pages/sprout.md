@@ -12,7 +12,7 @@ header:
     <link href="stylesheets/flatui/dist/css/vendor/bootstrap.min.css" rel="stylesheet">
     <link href="stylesheets/flatui/dist/css/flat-ui.min.css" rel="stylesheet">
 </head>
-<body>
+
 <div style="margin: 50px;">
 	<h4>SPROUT</h4>
 	<a href="https://www.biorxiv.org/content/10.1101/404947v1">SPROUT is a machine learning algorithm that predicts the DNA repair outcome in CRISPR-CAS9 experiments.</a>
@@ -46,7 +46,3 @@ header:
 			</form>
 		</div>
 	</div>
-</div>
-
-</body>
-</html>
