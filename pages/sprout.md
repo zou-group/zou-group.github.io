@@ -9,8 +9,8 @@ header:
 <head>
     <meta charset="UTF-8">
     <title>SPROUT</title>
-    <link href="stylesheets/flatui/dist/css/vendor/bootstrap.min.css" rel="stylesheet">
-    <link href="stylesheets/flatui/dist/css/flat-ui.min.css" rel="stylesheet">
+    <link href="/assets/css/flatui/dist/css/vendor/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/flatui/dist/css/flat-ui.min.css" rel="stylesheet">
 </head>
 
 <div style="margin: 50px;">
