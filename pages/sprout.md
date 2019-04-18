@@ -6,8 +6,6 @@ header:
     image_fullwidth: "header_unsplash_1.jpg"
 ---
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>SPROUT</title>
@@ -22,7 +20,7 @@ header:
 	<a href="https://github.com/amirmohan/SPROUT">Click to access the source code.</a>
 	<br>
 	<br>
-	Input the 20-nucleotide sgRNA sequence followed by the 3-nucleotide PAM sequence </a>
+	Input the 20-nucleotide sgRNA sequence followed by the 3-nucleotide PAM sequence
 	<br>
 	(e.g., CCACCAAAGTACGATGTGAGAGG)
 	<br>
